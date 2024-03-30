@@ -80,7 +80,6 @@ body{
     padding: 100px 0px 0px 0px;
     left: -100%;
     top: 0;
-    border: 1px solid white;
     background-color: var(--back-color);
     
     transition: all 0.3s;
